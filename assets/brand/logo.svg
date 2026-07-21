@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360" fill="none" role="img" aria-label="AA+ Studio landscape illustration">
+  <!-- sand landmass -->
+  <path d="M170 92c62-40 190-34 244 16 40 38 40 104-6 138-40 30-108 40-176 32-52-6-92-14-116-52-24-40-12-96 54-134Z" fill="#d3b98d"/>
+  <!-- lake, manta shape with tail -->
+  <path d="M250 150c34-24 78-18 92 6 10 17-2 34-20 40 14 10 20 26 8 40-14 16-40 14-56-2-10-10-16-8-30-4-18 5-34-6-34-24 0-20 18-30 40-52Z" fill="#4a828f"/>
+  <!-- tree mound -->
+  <ellipse cx="250" cy="120" rx="78" ry="26" fill="#3a6b4f"/>
+  <!-- trees -->
+  <g>
+    <path d="M196 96c0-16 9-27 20-27s20 11 20 27" fill="#5f8a68"/>
+    <ellipse cx="216" cy="76" rx="18" ry="21" fill="#5f8a68"/>
+    <path d="M216 96v22" stroke="#274c38" stroke-width="4.5" stroke-linecap="round"/>
+    <g fill="#3a6b4f">
+      <circle cx="252" cy="60" r="19"/><circle cx="276" cy="68" r="16"/>
+      <circle cx="234" cy="74" r="15"/><circle cx="266" cy="80" r="15"/><circle cx="250" cy="80" r="17"/>
+    </g>
+    <path d="M252 96v24" stroke="#274c38" stroke-width="5.5" stroke-linecap="round"/>
+    <ellipse cx="300" cy="80" rx="19" ry="22" fill="#5f8a68"/>
+    <path d="M300 100v20" stroke="#274c38" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+  <!-- low clover shrubs -->
+  <ellipse cx="196" cy="176" rx="14" ry="17" fill="#3a6b4f"/>
+  <ellipse cx="220" cy="182" rx="12" ry="15" fill="#5f8a68"/>
+  <path d="M196 158v24M220 168v22" stroke="#274c38" stroke-width="3.6" stroke-linecap="round"/>
+  <!-- detached pond, paisley -->
+  <path d="M84 158c40-10 56 26 40 58-10 20-38 26-56 8-20-20-16-56 16-66Z" fill="#3a6b4f"/>
+  <ellipse cx="96" cy="200" rx="15" ry="12" fill="#5f8a68"/>
+  <!-- birds -->
+  <g stroke="#2f5a41" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M40 128q9-8 18 0M48 120q9-8 18 0"/>
+    <path d="M62 142q9-8 18 0"/>
+  </g>
+  <!-- flowing ribbon with arrowheads at both ends -->
+  <path d="M112 214c74-14 96-70 176-56 44 8 66-16 122-74" stroke="#2f5a41" stroke-width="6" stroke-linecap="round"/>
+  <path d="M394 78l20-6-4 20" stroke="#2f5a41" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M288 158c-14 66 20 118 128 156" stroke="#2f5a41" stroke-width="6" stroke-linecap="round"/>
+  <path d="M404 300l18 12-14 14" stroke="#2f5a41" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
