@@ -284,7 +284,11 @@ a.project-media:hover .frame.lead img, .project-media:hover .frame.lead img { tr
 .people-head p { margin-top: 1.4rem; font-size: clamp(1.12rem, 1vw + 0.95rem, 1.42rem); line-height: 1.5; color: var(--ink); max-width: 40ch; }
 .people-grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(2rem, 5vw, 4.5rem); }
 .person { border-top: 1px solid var(--line); padding-top: 1.8rem; }
-.people-story { max-width: 64ch; margin-bottom: clamp(2.8rem, 7vh, 4.5rem); color: #37423a; }
+.people-story { margin-bottom: clamp(2.8rem, 7vh, 4.5rem); color: #37423a; }
+@media (min-width: 901px) {
+  .people-story { column-count: 2; column-gap: clamp(3rem, 6vw, 5.5rem); }
+  .people-story p { break-inside: avoid-column; }
+}
 .people-story p + p { margin-top: 1.2rem; }
 .people-story p:first-child::first-letter {
   float: left;
