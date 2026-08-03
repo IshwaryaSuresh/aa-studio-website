@@ -81,7 +81,7 @@ section { position: relative; }
   box-shadow: 0 1px 0 var(--line-soft);
 }
 .brand { display: flex; align-items: center; gap: 0.7rem; color: var(--pine-deep); }
-.brand img { width: 46px; height: 36px; flex: none; object-fit: contain; }
+.brand img { width: 78px; height: 60px; flex: none; object-fit: contain; }
 .brand .word {
   font-family: var(--display); font-weight: 500;
   letter-spacing: 0.3em; font-size: 0.82rem; text-indent: 0.3em;
@@ -340,7 +340,7 @@ a.project-media:hover .frame.lead img, .project-media:hover .frame.lead img { tr
 .footer { background: var(--pine-deep); color: rgba(244,241,232,0.7); padding-block: clamp(3rem, 7vh, 5rem); }
 .footer-top { display: flex; justify-content: space-between; align-items: center; gap: 2rem; flex-wrap: wrap; }
 .footer-mark { display: flex; align-items: center; gap: 0.9rem; color: var(--paper); }
-.footer-mark img { width: 58px; height: 45px; object-fit: contain; }
+.footer-mark img { width: 104px; height: 80px; object-fit: contain; }
 .footer-mark .word { font-family: var(--display); font-weight: 500; letter-spacing: 0.28em; font-size: 0.9rem; text-indent: 0.28em; }
 .footer-nav { display: flex; gap: 1.6rem; font-size: 0.9rem; }
 .footer-nav a:hover { color: var(--paper); }
